@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "type": "TODO",
+      "title": "제목1",
+      "author": "작성자1",
+      "content": "내용1"
+    },
+    {
+      "type": "TODO",
+      "title": "제목2",
+      "author": "작성자2",
+      "content": "내용2"
+    },
+    {
+      "type": "InProgress",
+      "title": "제목3",
+      "author": "작성자3",
+      "content": "내용3"
+    },
+    {
+      "type": "TODO",
+      "title": "제목4",
+      "author": "작성자4",
+      "content": "내용4"
+    }
+  ]
+}
